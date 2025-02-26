@@ -5,7 +5,7 @@ Event Tracker is a desktop application built in Rust that monitors mouse and key
 
 
 ## Demo Video 
-![Demo GIF](./demo.gif)
+![Demo GIF](./video.gif)
 
 
 
