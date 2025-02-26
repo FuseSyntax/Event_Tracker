@@ -1,3 +1,4 @@
+
 # Event Tracker
 
 Event Tracker is a desktop application built in Rust that monitors mouse and keyboard events and logs them into a CSV file. The project leverages Rust libraries such as [rdev](https://crates.io/crates/rdev) for capturing input events, [csv](https://crates.io/crates/csv) for handling CSV file operations, and [eframe/egui](https://crates.io/crates/eframe) for the graphical user interface.
